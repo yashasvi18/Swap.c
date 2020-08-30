@@ -1,2 +1,2 @@
-# Swap.c
+# Swapping
 swapping of two numbers
