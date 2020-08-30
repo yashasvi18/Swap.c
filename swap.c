@@ -2,7 +2,7 @@
 int a,b,temp;
 
 void change(int x,int y)
-{//swapping code
+{
     temp=x;
     x=y;
     y=temp;
